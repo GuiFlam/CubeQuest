@@ -1,1 +1,1 @@
-# CubeQuest
+# Rubiks Cube Timer
